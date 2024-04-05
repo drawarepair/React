@@ -80,7 +80,7 @@ body {
     font-family: 'PuradakGentleGothicR', sans-serif;
 }
 
-.transparent-box button {
+.ab button {
     background-color: #ffffff; /* 버튼 배경색 설정 */
     color: #e1b1ff; /* 버튼 텍스트 색 설정 */
     padding: 10px 20px; /* 버튼 패딩 설정 */
@@ -89,6 +89,71 @@ body {
     font-family: 'GmarketSansMedium', sans-serif;
     font-size: 20px;
     cursor: pointer;
+}
+
+.switch {
+    position: absolute; /* 자식 요소에 대한 position 설정 */
+    bottom: 655px;
+}
+
+.ab4 button {
+    background-color: #ffffff; /* 버튼 배경색 설정 */
+    color: #e1b1ff; /* 버튼 텍스트 색 설정 */
+    padding: 0px 10px; /* 버튼 패딩 설정 */
+    border: none; /* 버튼 테두리 제거 */
+    margin: 0px; /* 버튼 사이 여백 설정 */
+    font-family: 'GmarketSansMedium', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.set {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center; /* 수평 가운데 정렬 */
+    gap: 10px;
+    text-align: center;
+}
+
+.abunder  button {
+    background-color: #ffffff;
+    color: #e1b1ff;
+    padding: 0px 10px;
+    border: none;
+    margin: 0px;
+    font-family: 'GmarketSansMedium', sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute; /* 자식 요소에 대한 position 설정 */
+    right: 596px;
+    bottom: 555px; /* 원하는 위치로 버튼 이동 */
+    
+}
+
+.setting {
+    margin-top: 70px;
+    display: grid;
+    text-align: center;
+}
+
+.ab3 button {
+    background-color: #ffffff; /* 버튼 배경색 설정 */
+    color: #e1b1ff; /* 버튼 텍스트 색 설정 */
+    padding: 5px 0px; /* 버튼 패딩 설정 */
+    border: none; /* 버튼 테두리 제거 */
+    margin: 0px; /* 버튼 사이 여백 설정 */
+    font-family: 'GmarketSansMedium', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.switch0405 {
+    position: absolute; /* 자식 요소에 대한 position 설정 */
+    bottom: 375px;
 }
 
 .image-container {
