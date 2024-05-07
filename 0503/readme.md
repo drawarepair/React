@@ -24,6 +24,7 @@ HW0503 (6) 실습 파일 결과
 
 HW0503 (7) 실습 파일 결과
 
+![image](https://github.com/drawarepair/React/assets/102895287/bb86c464-90b5-45a9-81e1-fb8524955516)
 
 HW0503 (8) 실습 파일 결과
 
