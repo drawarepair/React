@@ -34,4 +34,8 @@ HW0503 (9) 실습 파일 결과
 
 ![image](https://github.com/drawarepair/React/assets/102895287/ac6d95fc-eb4d-43de-b6a4-8647a559784d)
 
+useEffect - 세가지 사용법 실행 결과
+
+![image](https://github.com/drawarepair/React/assets/102895287/a11b9aac-eaec-4113-bf57-8b84bf74051a) ![image](https://github.com/drawarepair/React/assets/102895287/03acd8a4-7777-4884-88ea-fe3626eb8852) ![image](https://github.com/drawarepair/React/assets/102895287/bc01977f-0aaa-4c00-ac0f-5245a355a9d3)
+
 HW0503 (10) 실습 파일 결과
